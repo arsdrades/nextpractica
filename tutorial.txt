@@ -1,0 +1,12 @@
+//CREAR PROYECTO //
+npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
+
+/app:Contiene todas las rutas, componentes y lógica para su aplicación; aquí es donde trabajará la mayor parte del tiempo.
+/app/lib:Contiene funciones utilizadas en su aplicación, como funciones de utilidad reutilizables y funciones de obtención de datos.
+/app/ui: Contiene todos los componentes de la interfaz de usuario de su aplicación, como tarjetas, tablas y formularios. Para ahorrar tiempo, hemos diseñado previamente estos componentes para usted.
+/public:Contiene todos los activos estáticos para su aplicación, como imágenes.
+
+
+
+// INSTALAR DEPENDENCIAS
+npmn i
